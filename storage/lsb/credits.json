@@ -1,0 +1,19 @@
+{
+    "credits": [
+        {
+            "uuid": "26d45041-3742-41f5-85ca-24ec4387347c",
+            "task": "Developer"
+        },
+        {
+            "uuid": "",
+            "task": "Helping with Bug-Fixes"
+        },
+        {
+            "uuid": "1d954089-ce5c-48ef-8ee6-a7d64742036a",
+            "task": "Designing"
+        }
+    ],
+    "info": {
+        "lastUpdated": "04.01.2023"
+    }
+}
